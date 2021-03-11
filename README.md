@@ -1,4 +1,4 @@
-# NaM-Home
+# cofi-home
 
 ## Build Setup
 
